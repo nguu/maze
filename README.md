@@ -12,3 +12,4 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 | Real_ESRGAN            | Image restoration, super resolution | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguu/maze/blob/main/Real_ESRGAN.ipynb)            |
 | Stable_Diffusion       | Image generation                    | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguu/maze/blob/main/Stable_Diffusion.ipynb)       |
 | Stable_Video_Diffusion | Image to video                      | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguu/maze/blob/main/Stable_Video_Diffusion.ipynb) |
+| LivePortrait |  Efficient Portrait Animation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguu/maze/blob/main/LivePortrait.ipynb) |
